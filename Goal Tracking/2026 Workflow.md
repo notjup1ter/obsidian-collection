@@ -1,0 +1,15 @@
+- [ ] Unified apps
+	- [ ] browser - chrome + zen
+	- [x] notes - obsidian
+	- [x] code editor - vscode
+	- [ ] terminal - wezterm 
+	- [ ] communications - slack, discord (maybe try to get them into one app? idrk)
+	- [ ] library version management (hugo versions for website mainly, but useful regardless)
+	- [x] Calendar - Gcal 
+- [ ] file organization
+	- [ ] naming standardization
+	- [ ] backlinks for topics
+	- [ ] Project notes (def WIP)
+- [ ] Windows setup
+	- [x] WSL
+	- [ ] optimizing search (I WISH IT HAD AN ALFRED RIP)
