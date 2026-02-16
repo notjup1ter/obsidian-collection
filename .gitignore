@@ -1,13 +1,25 @@
-_build
-_tracks
+# --- OS Garbage ---
+.DS_Store
+Thumbs.db
+.trash/
 
-opa-debug-js
+# --- Obsidian Volatile Files ---
+# These change every time you click a note. Do NOT sync them.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache/
+.obsidian/indexed_indices/
 
-*.opp
-*.opx
-*.opx.broken
-*.dump
-*.api
-*.api-txt
-*.exe
-*.log
+# --- Plugin-Specific Bloat ---
+# If you use the 'Obsidian Git' plugin, ignore its internal data
+.obsidian-git-data
+
+# If you use 'Smart Connections' or 'Copilot' plugins (Local Vector DBs)
+.smart-connections/
+.pro/copilot-index-*.json
+
+# --- Developer Bloat ---
+# In case you open your vault in VS Code
+.vscode/
+node_modules/
