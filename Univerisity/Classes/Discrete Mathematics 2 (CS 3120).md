@@ -11,12 +11,11 @@ instructor: Raymond Petit
 [[../../System/Attachments/DMT 2 schedule.pdf|Schedule]] (If not in syllabus)
 
 **When and Where:**
-* Tu/Thu 2-3:15
-* Nau Hall 101
+* t/tu
 
 # Notes
 ---
-```dataview LIST 
-FROM [[]] 
-WHERE file.name != this.file.name 
-SORT file.mtime DESC
+```dataview 
+list 
+from [[]]
+```

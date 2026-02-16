@@ -16,7 +16,8 @@ instructor:
 
 # Notes
 ---
-```dataview LIST 
-FROM [[]] 
-WHERE file.name != this.file.name 
-SORT file.mtime DESC
+```dataview 
+list 
+from [[]] 
+```
+
