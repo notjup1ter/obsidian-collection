@@ -8,13 +8,22 @@
       "key": "`"
     }
   ],
-  "templater-obsidian:insert-templater": [
+  "templater-obsidian:create-System/Templates/Note Router.md": [
     {
       "modifiers": [
         "Alt",
         "Mod"
       ],
       "key": "`"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
   "attachmentFolderPath": "System/Attachments",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "showUnsupportedFiles": true
 }

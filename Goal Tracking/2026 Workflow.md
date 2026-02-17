@@ -10,6 +10,7 @@
 	- [ ] naming standardization
 	- [ ] backlinks for topics
 	- [ ] Project notes (def WIP)
+	- [ ] New note and class scripts
 - [ ] Windows setup
 	- [x] WSL
 	- [ ] optimizing search (I WISH IT HAD AN ALFRED RIP)
