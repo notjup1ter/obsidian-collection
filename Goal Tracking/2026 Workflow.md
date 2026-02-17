@@ -3,6 +3,8 @@
 	- [x] notes - obsidian
 	- [x] code editor - vscode
 	- [ ] terminal - wezterm 
+		- [x] Installation
+		- [ ] Configuration
 	- [ ] communications - slack, discord (maybe try to get them into one app? idrk)
 	- [ ] library version management (hugo versions for website mainly, but useful regardless)
 	- [x] Calendar - Gcal 

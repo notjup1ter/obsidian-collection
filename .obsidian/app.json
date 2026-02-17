@@ -1,5 +1,7 @@
 {
   "attachmentFolderPath": "System/Attachments",
   "newLinkFormat": "absolute",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "University/Notes"
 }
