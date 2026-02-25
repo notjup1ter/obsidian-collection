@@ -3,5 +3,6 @@
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "University/Notes"
+  "newFileFolderPath": "University/Notes",
+  "alwaysUpdateLinks": true
 }

@@ -25,5 +25,14 @@
       ],
       "key": "N"
     }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }

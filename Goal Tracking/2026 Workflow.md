@@ -16,3 +16,13 @@
 - [ ] Windows setup
 	- [x] WSL
 	- [ ] optimizing search (I WISH IT HAD AN ALFRED RIP)
+
+
+# TOP Priority
+- [ ] Library version manager for different projects
+- [ ] note solidification / transfer / figure out ideal organization
+- [ ] visual studio code, outlook, and gmail setup
+- [ ] microsoft teams, slack setups
+- [ ] google calendar habit 
+- [ ] start projects
+- [ ] 
